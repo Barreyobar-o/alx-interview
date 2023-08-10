@@ -1,4 +1,4 @@
-#!/usr/bin/nodes
+#!/usr/bin/node
 const argv = process.argv;
 const urlFilm = 'https://swapi-api.hbtn.io/api/films/';
 const urlMovie = `${urlFilm}${argv[2]}/`;
